@@ -2,7 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.202.5/containers/azure-functions-python-3
 {
 	"name": "Java8 & Python3.6 & Azure Functions",
-	"runArgs": ["--init", "--name=python_java"],
+	"runArgs": ["--init"],
 	"dockerFile": "Dockerfile",
 	"forwardPorts": [ 7071 ],
 
